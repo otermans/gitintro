@@ -1,3 +1,4 @@
-# gitintro
 Introduction to git
-Some edit
+===================
+* Some edit
+* Some more edit
